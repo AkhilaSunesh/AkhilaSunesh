@@ -27,6 +27,9 @@ I am a second-year college student majoring in Computer Science Engineering, wit
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AkhilaSunesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AkhilaSunesh&icon=8&color=8)](https://visitcount.itsvg.in)
 
