@@ -14,9 +14,11 @@ I am a second-year college student majoring in Computer Science Engineering, wit
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AkhilaSunesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AkhilaSunesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaSunesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhilaSunesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="max-width: 45%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhilaSunesh&theme=dark&hide_border=false" style="max-width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhilaSunesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 45%;">
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AkhilaSunesh&theme=dark&no-frame=false&no-bg=true&margin-w=4)
@@ -26,6 +28,16 @@ I am a second-year college student majoring in Computer Science Engineering, wit
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AkhilaSunesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## GSSOC(24) Badges 
+<div style='display: flex; align-items: center; gap: 10px;' align='center'>
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
 
 ## Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&qColor=%23944bcc&aColor=%23bbdb51)
