@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year college student majoring in Computer Science Engineering, with a keen interest in Cyber Security and Ethical Hacking. Although I'm still a novice, I am passionate about learning and growing in this field.
+I am a third-year college student majoring in Computer Science Engineering, with a keen interest in Cyber Security and Ethical Hacking. Although I'm still a novice, I am passionate about learning and growing in this field.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhila_sunesh) 
